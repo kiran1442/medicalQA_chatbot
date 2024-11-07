@@ -25,7 +25,7 @@ Download the XML files from the MedQuAD GitHub repository and place them in a da
 ### Run the Chatbot:
 <!-- start:code block -->
 ### Run the following command in the terminal to start the chatbot interface:
-    streamlit run chatbot.py
+    streamlit run app.py
 <!-- end:code block -->
 
 ### Enter a Medical Question: 
